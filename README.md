@@ -1,6 +1,6 @@
-# LibreTaxi v2
+# Zen-Zone Rideshare is based on LibreTaxi v2
 
-LibreTaxi is open-source Uber proof-of-concept that works through [Telegram](https://telegram.org/).
+Zen-Zone Rideshare is open-source proof-of-concept that works through [Telegram](https://telegram.org/).
 
 See it in action: https://t.me/libretaxi_bot
 
